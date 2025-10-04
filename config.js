@@ -9,16 +9,16 @@ const fs = require("fs")
 require('dotenv').config(); 
 
 //================= { SETTINGS } =================\\
-global.owner = process.env.OWNER_NUMBER || "234"; // owner number 
-global.botimg = process.env.BOT_IMG || "https://files.catbox.moe/l9gpzm.jpg"
+global.owner = process.env.OWNER_NUMBER || "263716857999"; // 263716857999
+global.botimg = process.env.BOT_IMG || "https://files.catbox.moe/hvljlp.jpg"
 global.previewLink = process.env.PREVIEW_LINK || ""
 global.sudo = process.env.SUDO  || " ";
-global.ownername = process.env.OWNER_NAME || "Richie";
-global.botname = process.env.BOT_NAME || "AKANE"
+global.ownername = process.env.OWNER_NAME || "Lil Gaga";
+global.botname = process.env.BOT_NAME || "Gaga09XMD"
 global.onlypc = process.env.ONLYPC_MSG  || "Sorry buddy the bot won't work directly in group chat to reduce spam use in private chat";
 global.onlygc = process.env.ONLYGC_MSG  || "Sorry buddy the bot won't work directly in private chat to reduce spam use in group";
 global.session = process.env.SESSION_ID || ""
-global.timezone = process.env.TIME_ZONE || "Africa/Lagos";
+global.timezone = process.env.TIME_ZONE || "Africa/Harare;
 
 
 //======= Don't touch =======\\
@@ -41,7 +41,7 @@ global.loc = "1"
 global.domain = "add_domaim_url"
 global.apikey = "add_api_key"
 global.capikey = "add_capikey"
-global.creatorName = "Richie"
+global.creatorName = "LilGaga"
 
 //==========================
     
